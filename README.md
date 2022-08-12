@@ -4,11 +4,11 @@ For people with limited mobility, this device can be held or attached to any par
 help people who are paralyzed or without having lower and upper limbs to use computers and phones.
 It has the same function as of a conventional mouse.
 
-○ Problem Statement
+# ○ Problem Statement
 “People with physical disability or some sort of condition that restricts movement of all the four limbs are unable to use Computers and Smartphones, impeding their progress in life”
 “People admitted in Healthcare lying on bed with syringes and medical equipmenton their hands due to which they aren’t able to do anything even being mentally fit which ends up frustrating them often”
 
-○ Approach
+# ○ Approach
 "If we can Control Computer we can control almost everything. So my approach was that if We can make a device that will enable specially abled people to use computer, then we are almost done as if they are able to control computer then they can access things that are available by computers also it is very much possible to integrate useful and essential things they might need through some sort of automation."
 
 ○ Objective
