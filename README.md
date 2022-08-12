@@ -8,34 +8,34 @@ It has the same function as of a conventional mouse.
 “People with physical disability or some sort of condition that restricts movement of all the four limbs are unable to use Computers and Smartphones, impeding their progress in life”
 “People admitted in Healthcare lying on bed with syringes and medical equipmenton their hands due to which they aren’t able to do anything even being mentally fit which ends up frustrating them often”
 
-# ○ Approach
+### ○ Approach
 "If we can Control Computer we can control almost everything. So my approach was that if We can make a device that will enable specially abled people to use computer, then we are almost done as if they are able to control computer then they can access things that are available by computers also it is very much possible to integrate useful and essential things they might need through some sort of automation."
 
-○ Objective
+### ○ Objective
 The objective of this project is to develop a pointing device controlled by any movement (head movement) that had the same functions as a conventional mouse and to evaluate the performance of the proposed device when operated by quadriplegic or physically challenged users.
 It can be used by People in healthcares lying on bed it will give them extra mobility and enable them to use some devices like PCs/Smartphones/TVs.
 
-○ Solution
+### ○ Solution
 "If We can Control Computer We can control almost everything. To control Computer all We need is a Mouse so We’ve developed an affordable Mouse for people with physical disabilities (quadriplegic) and Amputees which prevent them from using a mouse and thereby Computer and thereby a lots of technologies and Information."
 "Assistive System based Mouse and Keyboard for Specially Abled People which is Universal in its Application : Sahayak"
 "For people with limited mobility, this device can be held or attached to any part of their body. This would help people who are paralyzed or without having lower and upper limbs to use computers and phones. It has the same function as of a conventional mouse."
 "I have developed a Software for accessing different clicks (don't Install if you want to use just the left click) get that Installed and Just Plugin and Play. For Smartphone and LED Tvs Just Plug and Play"
 
-○ How to Use :
+### ○ How to Use :
 For Navigation/Movement of Cursor -> Move your Head
 For Click -> Blow onto the Mic
 For different Clicks -> Hover onto the UI > Click(by blowing) onto the Click Needed > Blow onto the Mic
 
-○ Works with :
+### ○ Works with :
 Computers/Laptops
 Smartphones
 LED TVs
 
-○ Target Community
+### ○ Target Community
 Specially Abled People Including quadriplegic and Amputees
 People Admitted in HealthCare for some sort disease cure where they need to be on bed for long-long time.
 
-○ Technical Implementation
+### ○ Technical Implementation
 We have used MEMS (microelectromechanical systems) gyroscopes. MEMS are angular rate sensors, which are used whenever rate of turn (°/s) sensing is required without a fixed point of reference.
 We then Mapped it to displacement of the coordinate of Screen of the Desktop.
 We have Used then Mouse library and connected it with the output of MEMs via Microcontroller.
@@ -44,7 +44,7 @@ Next problem was that It was working great with left click but what about other 
 It worked Great! As per the Click It changes the click mode We made to that if We get this click then this button should Work!
 For the Wireless We have used Radio Signals for the transmission between Transmitter and Receiver.
 
-○ Innovation
+### ○ Innovation
 Connecting Specially Abled People with Technology to make their life easier
 Used Gyroscope to Sense Rate of Angular Spin and mapped it to the Coordinate of Screen.
 Used a Microcontroller which has USB interface
@@ -58,7 +58,7 @@ Allowing patients to control devices on their own
 Two patients can play games among themselves
 Integratable with Computer Games and it becomes the gaming aid which is of low cost.
 
-○ What will be the benefit of the idea to the target audience?
+### ○ What will be the benefit of the idea to the target audience?
 Specially Abled People without having four of limbs or have limbs but are paralyzed including quadriplegic and Amputees With the Project Now they’ll be able to :
 Use Computer with all the Clicks (Left, Right, Left Hold (we can havemore functions))
 Can Read PDF Books Easily than Conventional Hardcopy books where then need to turn the physical pages
@@ -79,7 +79,7 @@ For People Laid in HealthCare Beds
 “Patients now will be able to access TVs in hospitals and they can surf internet and can have a good time which will keep them away from negativity around. Also two patients can play game on the TV without using their hands or legs.”
 Keep them away from Bad Physiological effect and Severe Depression and Gives them Hope and a positive attitude towards life.
 
-○ Novelty
+### ○ Novelty
 It will use Gyroscope MEMs Based with some optimized algorithm to give the accurate and precise value of angle of spin that will be converted into displacement which makes it very accurate.
 No need to sit in any orientation
 Accuracy at its maximum (No chances of error)
@@ -90,7 +90,7 @@ No Calibration is Required
 Will have all kind of Clicks (Left, Right, Left Hold and Soon)
 It shall be integrated into something which is already In USE that is Headphones
 
-○ Why headphone Integration?
+### ○ Why headphone Integration?
 "People using sahayak will not have to wear something different from what they wear. They wear headphones for listening music and now they'll be able to use mouse too, no need of wearing anything else"
 
-"SAHAYAK - BETTER TOGETHER"
+# "SAHAYAK - BETTER TOGETHER"
