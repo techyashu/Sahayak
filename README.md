@@ -4,7 +4,7 @@ For people with limited mobility, this device can be held or attached to any par
 help people who are paralyzed or without having lower and upper limbs to use computers and phones.
 It has the same function as of a conventional mouse.
 
-# ○ Problem Statement
+### ○ Problem Statement
 “People with physical disability or some sort of condition that restricts movement of all the four limbs are unable to use Computers and Smartphones, impeding their progress in life”
 “People admitted in Healthcare lying on bed with syringes and medical equipmenton their hands due to which they aren’t able to do anything even being mentally fit which ends up frustrating them often”
 
