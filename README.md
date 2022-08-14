@@ -24,6 +24,30 @@
 
 <img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-11.png" alt="1">
 
+<img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-12.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-13.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-14.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-15.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-16.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-17.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-18.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-19.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-20.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-21.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-22.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-23.png" alt="1">
+
 ### ○ Problem Statement
 - “People with physical disability or some sort of condition that restricts movement of all the four limbs are unable to use Computers and Smartphones, impeding their progress in life”
 - “People admitted in Healthcare lying on bed with syringes and medical equipmenton their hands due to which they aren’t able to do anything even being mentally fit which ends up frustrating them often”
