@@ -1,4 +1,4 @@
-# Sahayak: A Human Machine Interface
+# Sahayak - A Human Machine Interface
 
 ### ○ Problem Statement
 - “People with physical disability or some sort of condition that restricts movement of all the four limbs are unable to use Computers and Smartphones, impeding their progress in life”
