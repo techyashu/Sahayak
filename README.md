@@ -5,7 +5,7 @@
 - “People admitted in Healthcare lying on bed with syringes and medical equipmenton their hands due to which they aren’t able to do anything even being mentally fit which ends up frustrating them often”
 
 ### ○ Approach
-"If we can Control Computer we can control almost everything. So my approach was that if We can make a device that will enable specially abled people to use computer, then we are almost done as if they are able to control computer then they can access things that are available by computers also it is very much possible to integrate useful and essential things they might need through some sort of automation."
+- "If we can Control Computer we can control almost everything. So my approach was that if We can make a device that will enable specially abled people to use computer, then we are almost done as if they are able to control computer then they can access things that are available by computers also it is very much possible to integrate useful and essential things they might need through some sort of automation."
 
 ### ○ Objective
 - The objective of this project is to develop a pointing device controlled by any movement (head movement) that had the same functions as a conventional mouse and to evaluate the performance of the proposed device when operated by quadriplegic or physically challenged users.
