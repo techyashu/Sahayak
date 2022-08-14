@@ -1,6 +1,6 @@
 # Sahayak - A Human Machine Interface
 
-<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-0.png" alt="1">
+<img src="https://github.com/techyashu/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-0.png" alt="1">
 
 <img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-1.png" alt="2">
 
