@@ -1,5 +1,21 @@
 # Sahayak - A Human Machine Interface
 
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-0.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-1.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-2.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-3.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-4.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-5.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-6.png" alt="1">
+
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-7.png" alt="1">
+
 ### ○ Problem Statement
 - “People with physical disability or some sort of condition that restricts movement of all the four limbs are unable to use Computers and Smartphones, impeding their progress in life”
 - “People admitted in Healthcare lying on bed with syringes and medical equipmenton their hands due to which they aren’t able to do anything even being mentally fit which ends up frustrating them often”
