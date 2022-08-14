@@ -2,19 +2,19 @@
 
 <img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-0.png" alt="1">
 
-<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-1.png" alt="1">
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-1.png" alt="2">
 
-<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-2.png" alt="1">
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-2.png" alt="3">
 
-<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-3.png" alt="1">
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-3.png" alt="4">
 
-<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-4.png" alt="1">
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-4.png" alt="5">
 
-<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-5.png" alt="1">
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-5.png" alt="6">
 
-<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-6.png" alt="1">
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-6.png" alt="7">
 
-<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-7.png" alt="1">
+<img src="https://github.com/techyashu/ashu/blob/master/ashu/Sahayak/da50482b2e5af7dc79490b83529392c4-7.png" alt="8">
 
 ### ○ Problem Statement
 - “People with physical disability or some sort of condition that restricts movement of all the four limbs are unable to use Computers and Smartphones, impeding their progress in life”
