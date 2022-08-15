@@ -136,6 +136,6 @@
 - It shall be integrated into something which is already In USE that is Headphones
 
 ### ○ Why headphone Integration?
-"People using sahayak will not have to wear something different from what they wear. They wear headphones for listening music and now they'll be able to use mouse too, no need of wearing anything else"
+- "People using sahayak will not have to wear something different from what they wear. They wear headphones for listening music and now they'll be able to use mouse too, no need of wearing anything else"
 
 # "SAHAYAK - BETTER TOGETHER"
