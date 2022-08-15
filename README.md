@@ -2,8 +2,6 @@
 
 <img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-0.png" alt="1">
 
-https://user-images.githubusercontent.com/62370019/184612572-c5fad102-4f5f-416e-88db-eaf42bc1e8da.mp4
-
 <img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-1.png" alt="1">
 
 <img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-2.png" alt="1">
