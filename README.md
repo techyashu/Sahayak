@@ -2,8 +2,6 @@
 
 <img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-0.png" alt="1">
 
-![](https://github.com/techyashu/ashu/blob/master/Sahayak/working_Trim.gif)
-
 <img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-1.png" alt="1">
 
 <img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-2.png" alt="1">
@@ -27,6 +25,8 @@
 <img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-11.png" alt="1">
 
 <img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-12.png" alt="1">
+
+![](https://github.com/techyashu/ashu/blob/master/Sahayak/working_Trim.gif)
 
 <img src="https://github.com/techyashu/ashu/blob/master/Sahayak/da50482b2e5af7dc79490b83529392c4-13.png" alt="1">
 
